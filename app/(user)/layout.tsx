@@ -34,7 +34,7 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
       <Head />
       <body className='transition ease'>
         <Header />
-        <main className='flex flex-col justify-center items-center mx-auto'>
+        <main className='px-[32px] lg:px-0 flex flex-col justify-center items-center mx-auto'>
           {children}
         </main>
         <Footer />

@@ -2,7 +2,6 @@ import AboutMe from '../content/AboutMe';
 import ContactMe from '../content/ContactMe';
 import CurrentFavTech from '../content/CurrentFavTech';
 import CurrentTimeLineExp, { calculateDuration } from '../content/CurrentTimeLineExp';
-import FavProjects from '../content/FavProjects';
 import Hero from '../content/Hero';
 import AnimationContainer from '../utils/AnimationContainer';
 import { skills } from '../utils/mySkills';
@@ -16,7 +15,6 @@ const HomeSection = () => {
       <div className='w-full flex flex-col items-start'>
         <AboutMe />
         <CurrentTimeLineExp />
-        <FavProjects />
         <AnimationContainer customClassName='w-full flex flex-col gap-5 mb-8'>
           <h2 className='font-bold text-2xl md:text-2xl tracking-tight mb-2 text-white text-start'>Skills</h2>
           <p className='text-base text-gray-400'>
