@@ -34,7 +34,7 @@ const AboutSection = () => {
         <AnimationContainer customClassName='w-full flex flex-col gap-5 mb-8'>
           <h2 className='font-bold text-2xl md:text-2xl tracking-tight mb-2 text-white text-start'>Skills</h2>
           <p className='text-base text-gray-400'>
-            A look at all the programming languages, libraries, and tools I've worked with, I started programming about +{calculateDuration('2020-01-01', false)} ago. I have tried a few programming languages and technology stack, both Backend and Frontend.
+            A look at all the programming languages, libraries, and tools I've worked with, I started programming about {calculateDuration('2020-01-01', false)} ago. I have tried a few programming languages and technology stack, both Backend and Frontend.
           </p>
           <p className='text-base text-gray-400'>
             Event though the scope of web development is wide, I was very interested and focused on Frontend development. See more in my <a href="https://github.com/jeandv" target="_blank" className="hover:text-white"><u>github.com/jeandv</u></a>
