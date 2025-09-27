@@ -148,7 +148,7 @@ const allProjectsInfo = [
     des: 'Website for a construction company in Portugal.',
     category: 'javascript - typescript - nextjs - sanity cms',
     repo: null,
-    link: 'https://freiguel-web.vercel.app/en'
+    link: 'https://www.freiguel.pt/pt'
   },
   {
     id: '20',
@@ -156,7 +156,7 @@ const allProjectsInfo = [
     des: 'Website for a construction company in Portugal ',
     category: 'javascript - typescript - next.js - sanity cms',
     repo: null,
-    link: 'https://vilcol-web.vercel.app/es'
+    link: 'https://vilcol.pt/es'
   },
   {
     id: '21',
@@ -173,6 +173,14 @@ const allProjectsInfo = [
     category: 'javascript - threejs',
     repo: 'https://github.com/jeandv/my-threejs-journey',
     link: null
+  },
+  {
+    id: '23',
+    title: '3D Text Three.js',
+    des: 'Three.js Journey practices and projects.',
+    category: 'javascript - threejs',
+    repo: 'https://github.com/jeandv/my-threejs-journey',
+    link: 'https://3d-text-jeandv.vercel.app/'
   }
 ];
 
