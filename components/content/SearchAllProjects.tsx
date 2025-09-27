@@ -170,11 +170,11 @@ const allProjectsInfo = [
     id: '22',
     title: 'My Three.js Journey',
     des: 'Three.js Journey practices and projects.',
-    category: 'javascript - threejs'
+    category: 'javascript - threejs',
     repo: 'https://github.com/jeandv/my-threejs-journey',
     link: null
   },
-    {
+  {
     id: '23',
     title: '3D Text Three.js',
     des: 'Three.js Journey practices and projects.',
